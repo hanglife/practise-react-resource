@@ -38,7 +38,7 @@ class App extends React.Component {
           <div className="editor">
             <textarea className="textarea" />
           </div>
-          <div className="preview markdown-body">
+          <div className="preview">
           </div>
         </div>
       </div>
