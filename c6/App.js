@@ -108,7 +108,7 @@ class App extends Component {
             <div className="editor">
               <textarea></textarea>
             </div>
-            <div className="preview">
+            <div className="preview markdown-body">
               <div></div>
             </div>
           </div>
